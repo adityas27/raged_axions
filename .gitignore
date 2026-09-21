@@ -1,2 +1,7 @@
 train_images
 test_images
+.venv
+/.venv
+eval_images
+train_images
+Approch-1
